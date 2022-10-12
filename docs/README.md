@@ -1,4 +1,4 @@
-# :bulb: filters custom
+# :bulb: pdf reader
 
 ![image](https://user-images.githubusercontent.com/96321122/195453441-844ef141-1171-4905-bb54-9933e78b603c.png)
 
